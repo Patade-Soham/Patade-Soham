@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Soham Patade<br><br>🎓 Computer Engineering Student | 💻 Web Dev Learner | Cybersecurity and Agentic AI<br><br>🔭 Working on: HTML, CSS, JavaScript projects<br><br>🌱 Learning: JavaScript, Python, Flask<br><br>💬 Ask me about: Web basics & Python<br><br>🤝 Collaborate on: Beginner web & Python projects<br><br>🆘 Help with: JS logic, clean code, open-source<br><br>🛠 Tech: HTML • CSS • JS • Python • Flask • Git • C • Java<br><br>⭐ Building skills one commit at a time
+👋 Hi, I’m Soham Patade<br><br>🎓 Computer Engineering Student | 💻 Web Dev Learner | Cybersecurity and Agentic AI<br><br>🔭 Working on: HTML, CSS, JavaScript projects<br><br>🌱 Learning: JavaScript, Python, Flask, React<br><br>💬 Ask me about: Web basics & Python<br><br>🤝 Collaborate on: Beginner web & Python projects<br><br>🆘 Help with: JS logic, clean code, open-source<br><br>🛠 Tech: HTML • CSS • JS • Python • Flask • Git • C • Java<br><br>⭐ Building skills one commit at a time
 
 
 ## 🌐 Socials:
